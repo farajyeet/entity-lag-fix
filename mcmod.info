@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hoppersfix",
+  "name": "Hoppers Fix",
+  "description": "Fix for hoppers picking up items every game tick.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Polyacov_Yury"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,12 @@
+{
+    "package": "net.polyacovyury.fix.mixin",
+    "refmap": "mixins.fix.refmap.json",
+    "required": true,
+    "minVersion": "0.7",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+      "MixinEntityItem",
+      "MixinEntityMinecartContainer",
+      "MixinTileEntityHopper"
+    ]
+  }
